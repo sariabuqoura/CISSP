@@ -41,4 +41,12 @@
     * Serial configuration (oppsite that applicaiton new ideas)  
       * If parallel a threat could pass through a single checkpoint that did not address its particular malcious activity 
       * serial is very narrow but very deep, parallel is very wide but very shallow   
+  * Abstraction: is used for efficiency, Similar elements are put into groups,classes, roles.(abstraction simplifes security).
+    * thats is how to send input and receive output.
 
+  * Data Hiding: subject cant see or access the data (not accesible)
+    * Preventing application access hardware directly 
+    * Insure that data existing at one level of security is not visble to process running at diffrent security level.
+    * Data hiding is the act of intentionally positioning data so that it is not viewable or accessible to an unauthorized subject.   
+  * Security through obscurity: hoping that no one will discover the issue and exploit it.
+  * Encryption : :D
