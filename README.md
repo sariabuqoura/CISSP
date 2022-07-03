@@ -30,8 +30,8 @@
   * Authenticity: originates from its alleged source (the recipient can have a high level of confidance that the data is from whom it claims it be from)
   * Nonrepudiation: Digital Certificates, Session identifiers, transaction logs
   * AAA Service abbreviation refer to Authentication, Authorization, Accounting but it actually means the five elements: 
-    * Identification
-    * Authentication
-    * Authorization
-    * Auditing
-    * Accounting
+    * Identification: claming the be an identity.
+    * Authentication: prove the identity (Identification and Authentication are single two steps process )
+    * Authorization: permission
+    * Auditing: recording logs 
+    * Accounting: review logs to check for compliance and violations
