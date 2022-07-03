@@ -50,3 +50,7 @@
     * Data hiding is the act of intentionally positioning data so that it is not viewable or accessible to an unauthorized subject.   
   * Security through obscurity: hoping that no one will discover the issue and exploit it.
   * Encryption : :D
+
+* Security Boundaries: 
+
+### 1.3 Evaludate and apply security Governance Principles 
