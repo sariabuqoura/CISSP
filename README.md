@@ -10,5 +10,15 @@
 * Ten Commandment of computer ethics
 * Code of fair information practices (5)
 * Cybersecurity credentials collaborative C3
-  * Integrity, objectivit, profissional, confidentality.
+  * Integrity, objectivity, profissional, confidentiality.
 ### 1.2 CIA
+* Confidentiality
+ * +
+ * Concealment 
+ * Seclusion: storing in an out of the way location.
+ * Isolation: Seperate from others.   
+* Integrity
+ * +
+ * Oversight: an unintentional failure to notice or do something
+ * Ineptitude: lack of skill or ability
+* Availability
