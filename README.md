@@ -23,7 +23,7 @@
   * Ineptitude: lack of skill or ability
 * Availability
   * Depend on both of integrity & Encryption  
-* & other security concepets 
+* Other security concepets 
   * Overprotection
     *   Overprotecting integrity can result in a restriction of availability.
     *   Over providing availability can result in loss of confidentiality and integrity.  
@@ -31,7 +31,14 @@
   * Nonrepudiation: Digital Certificates, Session identifiers, transaction logs
   * AAA Service abbreviation refer to Authentication, Authorization, Accounting but it actually means the five elements: 
     * Identification: claming the be an identity.
-    * Authentication: prove the identity (Identification and Authentication are single two steps process )
+    * Authentication: prove the identity (Identification and Authentication are single two steps process ) [passwords are the least secure].
     * Authorization: permission
     * Auditing: recording logs 
     * Accounting: review logs to check for compliance and violations
+* Protection Mechanisms 
+  * Defense in Depth:
+    * a single failed control should not result in exposure of the system or data 
+    * Serial configuration (oppsite that applicaiton new ideas)  
+      * If parallel a threat could pass through a single checkpoint that did not address its particular malcious activity 
+      * serial is very narrow but very deep, parallel is very wide but very shallow   
+
