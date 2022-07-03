@@ -22,3 +22,16 @@
   * Oversight: an unintentional failure to notice or do something
   * Ineptitude: lack of skill or ability
 * Availability
+  * Depend on both of integrity & Encryption  
+* & other security concepets 
+  * Overprotection
+    *   Overprotecting integrity can result in a restriction of availability.
+    *   Over providing availability can result in loss of confidentiality and integrity.  
+  * Authenticity: originates from its alleged source (the recipient can have a high level of confidance that the data is from whom it claims it be from)
+  * Nonrepudiation: Digital Certificates, Session identifiers, transaction logs
+  * AAA Service abbreviation refer to Authentication, Authorization, Accounting but it actually means the five elements: 
+    * Identification
+    * Authentication
+    * Authorization
+    * Auditing
+    * Accounting
