@@ -68,5 +68,10 @@
   * can result of voiding authorization to operate ATO
   * complete document can provide temporary ATO TATO.
 * Manage The Security Function
+  *  operating a business that focuses on the tasks of evaluating and improving security over time.
+  *  preforming risks assessment to drive the security policy is the clearest and most direct example if managment of security function 
+  *  Security must be measureabl.
+  *  tracking and assessing security metrics is part of effective security.
+*  Alignment if Security Function to Business Strategy Goals, Mission, and Objectives 
   *  
  
