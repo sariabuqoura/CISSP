@@ -54,8 +54,19 @@
 * Security Boundaries: is the line of intersection between two areas, high security and a low security one.
   * the distinction between classification is a security boundary.
   * in most casses interface is clearly marked, and unauthorized subject are informed that attempts to gain access will result in prosecution.
-  * Logical: the points where electronic comminications a interface with device or service compay is legally responsible 
+  * Logical: the points where electronic comminications a interface with device or service compay is legally responsible. ??xx?? 
   * Phycial: warning signs are posted .
   * security mechanisim must be reasonable, cost-effective and effcient (must be weighted agnist the value of the objects)
 ### 1.3 Evaludate and apply security Governance Principles 
+ Preformed by Bard of director or CEO or CISO
+ Security governance seeks to compare the security processes and infrastructure used within the orgnization
+* Thrid-Party Governance: External Auditer (full and open document exchange).
+* Document Review : 
+  * Reading the exchanged materials and verifying them aginst standards and expectations 
+  * if exchanged documents sufficient and meets the expectations or at least the requirements, then onsite review will be focised on compiance 
+  * if exchanged documents is incomplete, inacurate or insufficient, the on site review is postponded until document is ready.
+  * can result of voiding authorization to operate ATO
+  * complete document can provide temporary ATO TATO.
+* Manage The Security Function
+  *  
  
