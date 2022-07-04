@@ -54,8 +54,8 @@
 * Security Boundaries: is the line of intersection between two areas, high security and a low security one.
   * the distinction between classification is a security boundary.
   * in most casses interface is clearly marked, and unauthorized subject are informed that attempts to gain access will result in prosecution.
-  * Logical: the points where electronic comminications ainterface with device or service compay is legally responsible 
+  * Logical: the points where electronic comminications a interface with device or service compay is legally responsible 
   * Phycial: warning signs are posted .
-  * security mechanisim must be reasonable, cost-effective and effcient (must be weighted agnist the value of the objects )
+  * security mechanisim must be reasonable, cost-effective and effcient (must be weighted agnist the value of the objects)
 ### 1.3 Evaludate and apply security Governance Principles 
  
