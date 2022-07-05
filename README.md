@@ -90,6 +90,25 @@
   * Tactial Plan 
   * Operational Plan  
 * Organizational Processes
+  * Aquisitions,Divestitures
+  * Minimizing inherent threats.
+  * products that have resilient security are more expensive.
+  * when considering the cost of merger.acuisition importanat to consider total cost of ownership
+  * external org is unable to manger their business in secure basis how they can provide reliable security to you ? 
+  * evaluation 3rd party integration 
+    * On site assessment
+    * Document Exchange and Review
+    * Process/Policy Review
+    * Third Party Audit (American Institue of certified public Accountants AICPA) Unbaiased review of security, and (SOC reports (Service Organization Control))
+  * New Service/Hardware should meet or exceed your current security posture  
+  * Review SLA
+  * When Service is being crafted SLR must be defined, SLR statment of expectation of service/ preforamce 
+  * SLR is provided by customer/ client prior to the establishment of SLA
+  * Two  Additional examples 
+    * strong security goveranace (change control/ change managment )
+    * data classification
+* Organizational Roles and Responsibilites 
+* 
 
   
  
