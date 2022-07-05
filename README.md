@@ -73,5 +73,9 @@
   *  Security must be measureabl.
   *  tracking and assessing security metrics is part of effective security.
 *  Alignment if Security Function to Business Strategy Goals, Mission, and Objectives 
-  *  
+  * security management planning ensure proper creation, implementation, enforcment.
+  * middel management to flesh out the security policy into standred, baseline procedures 
+  * the operational managers / security professionals must implement the configuration in the policy 
+  * top down approcah , not bottom-uo approch
+  
  
