@@ -77,5 +77,14 @@
   * middel management to flesh out the security policy into standred, baseline procedures 
   * the operational managers / security professionals must implement the configuration in the policy 
   * top down approcah , not bottom-uo approch
+  * InfoSec team should be led by designated CISO report to (Senior Managment,CIO,CEO,or board of directors)
+  * CISO, CISO's teams outside the hierarchical structure.
+  * CIO ensure information is used effectivly to accomplish bussiness objective.
+  * CTO ensure that equipment and software work properly to support the bussiness function.
+  *  You May Found under CISCO 
+    * CSO:Chief Security officer : Physical security. 
+    * ISO: Infomration security Officer  
+
+
   
  
