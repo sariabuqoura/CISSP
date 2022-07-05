@@ -89,6 +89,7 @@
   * Stratigic Plan 
   * Tactial Plan 
   * Operational Plan  
+* Organizational Processes
 
   
  
