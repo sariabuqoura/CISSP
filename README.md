@@ -84,7 +84,11 @@
    * You May Found under CISCO 
      * CSO:Chief Security officer : Physical security. 
      * ISO: Infomration security Officer  
-
+* policy development team to educate senior managment .
+* security managment planning team shoud develop 3 plans :
+  * Stratigic Plan 
+  * Tactial Plan 
+  * Operational Plan  
 
   
  
