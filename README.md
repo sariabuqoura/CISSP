@@ -108,7 +108,15 @@
     * strong security goveranace (change control/ change managment )
     * data classification
 * Organizational Roles and Responsibilites 
-* 
+* Senior Manager: 
+  * Responsbile for the security 
+  * must sign off on all security policy 
+  * is liable for success or failure 
+* Security Professional: 
+    * Security Professional
+    * InfoSec Officer 
+    * CIRET (Computer incident response team) 
+  * functional responsbility for security  
 
   
  
