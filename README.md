@@ -113,10 +113,31 @@
   * must sign off on all security policy 
   * is liable for success or failure 
 * Security Professional: 
+  * Other Names:
     * Security Professional
     * InfoSec Officer 
     * CIRET (Computer incident response team) 
-  * functional responsbility for security  
+  * functional responsbility for security.
+  * writing security policy and implementing it 
+  * it maybe Operation but focus on protection more than function 
+  * this role is often filled by team responsbile for designing and implementing security solutions.
+  * security profissional and not decision makers 
+* Asset Owner 
+  * assgined to the person who classify information for placment onf protection ??xx??
+  * responsbile for asset protection 
+  * actual data managment tasks deligated to a custodian
+* Custodian
+  * responsbile for the tasks of implementing the protection 
+    * Testing Backup
+    * Validate data integrity 
+    * Deploying security solution 
+    * manage data storage
+* User 
+  * any person who access the secured system to work on tasks (least privilege)   
+* Audtior 
+  * reviewing and verifying that security policy is properly implemented 
+
+### Security Control Frameworks 
 
   
  
