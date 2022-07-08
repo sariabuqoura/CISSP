@@ -220,4 +220,6 @@ Once the security policy documentation is reasonably complet, it can be used to 
      * to reduce to severity of any remaning defects 
 * Defensive approach
   * during the initial desgin, based on prediciting threat and designing in specific defense during the coding and crafting process 
-  * Integrated security solutions are more cost effective and more successfull than those shoehorned in later (this concept could be considered a proactive approach to threat management)
+  * Integrated security solutions are more cost effective and more successfull than those shoehorned in later (this concept could be considered a proactive approach to threat management).
+  * not all threats can be predicted during the desgin phase so reactive approach to threat managment is still needed to address unforseen issues.
+  * this concept is often cakk threat hunting or may be referred to as an adversarial approach.
