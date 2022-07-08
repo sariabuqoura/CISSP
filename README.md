@@ -172,4 +172,16 @@ https://github.com/jefferywmoore/CISSP-Study-Resources
   * Is Knowing what should be done and planning for it 
 * Showing both is the only way to diprove negligence.
 ### Security Policy, Standards, Procedures, And Guidenlines 
-* 
+Developing and implementing documented security policy, standard, procedures, and guideline produces a solid and reliable security infrastructure
+* Policy
+  * Define the scope of security needed by the organization. 
+  * Dicusess the assets that require protection. 
+  * extend which securitu solition should go to provide the protection. 
+  * Define strategic security objective,Vision, and goals.
+  * Outline security framework.
+  * indicate compliance requirments. 
+  * define acceptable risk level. 
+  * "This document is often used as the prrof that senior managemenet has exercised due diligence".
+  * "Acceptable user Policy: define a level of acceptable perforamnce and expectiaon of behavior and activity".
+* Standards
+  * 
