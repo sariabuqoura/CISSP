@@ -1,3 +1,6 @@
+try this 
+https://github.com/jefferywmoore/CISSP-Study-Resources 
+ 
 # CISSP
 ## Domain 1 
 ### 1.1 Code of Ethics 
