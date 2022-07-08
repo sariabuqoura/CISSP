@@ -186,10 +186,15 @@ Developing and implementing documented security policy, standard, procedures, an
   * "Acceptable user Policy: define a level of acceptable perforamnce and expectiaon of behavior and activity".
 * Standards
   * Mandatory 
-  * defome compulsory requirements for the homogenous use of hardware, software, technology, and security controls. 
+  * define compulsory requirements for the homogenous use of hardware, software, technology, and security controls. 
 * Baseline
   * Mandatory
+  * Define Minimum level of security that every system throughout 
+  * base line more operationally 
+  * all systems not complying with the baseline should be taken out of production
 * Guidelines
-  * 
+  * Not Mandatory
+  * Offer recommendation on how standards and baseline are implemented
+  * Guidelines are flexbile 
 * Procedures
   * Mandatory
