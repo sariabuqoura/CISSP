@@ -219,4 +219,5 @@ Once the security policy documentation is reasonably complet, it can be used to 
      * to reduce the number of security related desgin and coding defects 
      * to reduce to severity of any remaning defects 
 * Defensive approach
-  *   
+  * during the initial desgin, based on prediciting threat and designing in specific defense during the coding and crafting process 
+  * Integrated security solutions are more cost effective and more successfull than those shoehorned in later (this concept could be considered a proactive approach to threat management)
