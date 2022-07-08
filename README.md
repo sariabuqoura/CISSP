@@ -157,4 +157,8 @@ https://github.com/jefferywmoore/CISSP-Study-Resources
 * ISO (basis of implementing organization security and realted management)  
   * Plan, Do, Check Act
 * ITIL (IT to Support bussiness growth)
-
+### Due care/due diligence
+* Due care
+  *  
+* Due diligence
+  * 
