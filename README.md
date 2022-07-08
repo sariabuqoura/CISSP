@@ -214,4 +214,9 @@ Once the security policy documentation is reasonably complet, it can be used to 
    * probability of accurence
    * priority of concerns 
    * means to readicate or reduce the threat. 
- 
+ * microsoft moto : Secure by desgin, secure by default, secure in development 
+   * has goals of 
+     * to reduce the number of security related desgin and coding defects 
+     * to reduce to severity of any remaning defects 
+* Defensive approach
+  *   
