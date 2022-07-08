@@ -157,6 +157,11 @@ https://github.com/jefferywmoore/CISSP-Study-Resources
 * ISO (basis of implementing organization security and realted management)  
   * Plan, Do, Check Act
 * ITIL (IT to Support bussiness growth)
+* &
+  * PCI DSS (Payment card Industry Data Security Standard)
+  * OCTAVE self directed Risk Managment (Operationally Critical Threat, Assets, Vulneabilitiy Evaluation)
+  * COSO (Commitee of sponsoring Organization) (Goals of the entire Organization) 
+  * FARP (Faciliated Risk Anaylsis) (roundabletable brianstorm internal)
 ### Due care/due diligence
 * Due care
   *  
