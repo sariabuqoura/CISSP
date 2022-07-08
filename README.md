@@ -184,4 +184,4 @@ Developing and implementing documented security policy, standard, procedures, an
   * "This document is often used as the prrof that senior managemenet has exercised due diligence".
   * "Acceptable user Policy: define a level of acceptable perforamnce and expectiaon of behavior and activity".
 * Standards
-  * 
+  * defome compulsory requirements for the homogenous use of hardware, software, technology, and security controls. 
