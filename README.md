@@ -164,6 +164,12 @@ https://github.com/jefferywmoore/CISSP-Study-Resources
   * FARP (Faciliated Risk Anaylsis) (roundabletable brianstorm internal)
 ### Due care/due diligence
 * Due care
-  *  
+  * Is doing the right action at the right time 
+  * Is Practicing the indiviual activites.
 * Due diligence
-  * 
+  * Is establishing a plan, policy, and process to protect the interests of the organization.
+  * often involves gathering information through discovery, risk assessments and review of existing documentation; developing a formalized security structure
+  * Is Knowing what should be done and planning for it 
+* Showing both is the only way to diprove negligence.
+### Security Policy, Standards, Procedures, And Guidenlines 
+* 
