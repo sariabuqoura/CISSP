@@ -205,3 +205,13 @@ Once the security policy documentation is reasonably complet, it can be used to 
   * Contanis details rather than policy for the below :
     * Not all users need to know the security standards,baseline,guidelines, and procedure
     * it is easier to update   
+### Threat Modeling
+ * is a process where potential threats are identified, categorized, and analyzed.
+ * proactive measure during the design or development
+ * reactive once a product has been deployed 
+ * checks :
+   * identifes the potential harm
+   * probability of accurence
+   * priority of concerns 
+   * means to readicate or reduce the threat. 
+ 
