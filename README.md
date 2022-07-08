@@ -138,6 +138,20 @@
   * reviewing and verifying that security policy is properly implemented 
 
 ### Security Control Frameworks 
-ilove you <3 suz
-  
- 
+* CBOIT (mapping of IT Security ideals to business objectives)
+  * provide stakeholder value 
+  * holistic approch 
+  * dynamic gvernance 
+  * governance distinct 
+  * tailored to enterprise needs 
+  * end- to end governance
+* NIST 800-53 Rev.5 (general recommendation for orgnaizational security)
+* CIS  (Provide Hardwawre, security configuration guides)
+* NISK RMF (Establishes Mandatory requirments for deferal agencies)
+  * Categorize, Select, Implement, Assess, Authorize, Monitor
+* NIST Cyber Security (CSF)(on an ongoing basis for the support and imporovment of security over time )
+  * Identify, Protect, Detect, Respond, Recover
+* ISO (basis of implementing organization security and realted management)  
+  * Plan, Do, Check Act
+* ITIL (IT to Support bussiness growth)
+
