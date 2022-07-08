@@ -173,6 +173,7 @@ https://github.com/jefferywmoore/CISSP-Study-Resources
 * Showing both is the only way to diprove negligence.
 ### Security Policy, Standards, Procedures, And Guidenlines 
 Developing and implementing documented security policy, standard, procedures, and guideline produces a solid and reliable security infrastructure
+Once the security policy documentation is reasonably complet, it can be used to guide decisions
 * Policy
   * Mandatory
   * Define the scope of security needed by the organization. 
@@ -184,6 +185,7 @@ Developing and implementing documented security policy, standard, procedures, an
   * define acceptable risk level. 
   * "This document is often used as the prrof that senior managemenet has exercised due diligence".
   * "Acceptable user Policy: define a level of acceptable perforamnce and expectiaon of behavior and activity".
+  * fewer document because they contain in general broad discussions of overview and goals. 
 * Standards
   * Mandatory 
   * define compulsory requirements for the homogenous use of hardware, software, technology, and security controls. 
@@ -198,3 +200,8 @@ Developing and implementing documented security policy, standard, procedures, an
   * Guidelines are flexbile 
 * Procedures
   * Mandatory
+  * Is Detailed,setp by step how-to document.
+  * Purpose of procedure is to ensure the integrity of business process 
+  * Contanis details rather than policy for the below :
+    * Not all users need to know the security standards,baseline,guidelines, and procedure
+    * it is easier to update   
