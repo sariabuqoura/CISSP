@@ -174,6 +174,7 @@ https://github.com/jefferywmoore/CISSP-Study-Resources
 ### Security Policy, Standards, Procedures, And Guidenlines 
 Developing and implementing documented security policy, standard, procedures, and guideline produces a solid and reliable security infrastructure
 * Policy
+  * Mandatory
   * Define the scope of security needed by the organization. 
   * Dicusess the assets that require protection. 
   * extend which securitu solition should go to provide the protection. 
@@ -184,4 +185,11 @@ Developing and implementing documented security policy, standard, procedures, an
   * "This document is often used as the prrof that senior managemenet has exercised due diligence".
   * "Acceptable user Policy: define a level of acceptable perforamnce and expectiaon of behavior and activity".
 * Standards
+  * Mandatory 
   * defome compulsory requirements for the homogenous use of hardware, software, technology, and security controls. 
+* Baseline
+  * Mandatory
+* Guidelines
+  * 
+* Procedures
+  * Mandatory
