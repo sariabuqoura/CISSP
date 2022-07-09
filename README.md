@@ -243,5 +243,11 @@ Once the security policy documentation is reasonably complet, it can be used to 
     * Risk- centric 
     * aims to select or develop countermeasures in relation to the value of the assets to be protected.
     * steps 
-      *  
+      *  Stage I: Definition of the Objectives (DO) for the Analysis of Risk.
+      * Stage II: Definition of the Technical Scope (DTS)
+      * Stage III: Application Decomposition and Analysis (ADA)
+      * Stage IV: Threat Analysis (TA)
+      * Stage V: Weakness and Vulnerability Analysis (WVA)
+      * Stage VI: Attack Modeling and Simulation (AMS)
+      * Stage VII: Risk Analysis and Management (RAM)
     
