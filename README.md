@@ -63,6 +63,7 @@ https://github.com/jefferywmoore/CISSP-Study-Resources
 ### 1.3 Evaludate and apply security Governance Principles 
  Preformed by Bard of director or CEO or CISO
  Security governance seeks to compare the security processes and infrastructure used within the orgnization
+ security governance seeks to compare the security orocesses and infrastructure used within the organization with the knowledge and insight from external source 
 * Thrid-Party Governance: External Auditer (full and open document exchange).
 * Document Review : 
   * Reading the exchanged materials and verifying them aginst standards and expectations 
