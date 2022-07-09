@@ -254,4 +254,12 @@ Once the security policy documentation is reasonably complet, it can be used to 
     *  consider threat level from indivduals including employees adversaries and treust pratners.
     *  Compny faces threats from nature, technology, people, always consider the best and worst possbile outcomes.
 * Determining and Digramming Potential attacks
-  * 
+  * creating digram of the element involved in transaction along with indication of data flow and privilege.
+* Preforming Reduction anaylsis 
+  * Decomposing the application 
+  * purpose is to gain a greater understandign of the logic of the product, its internal components, as well as its interncation with external elements.
+    * Trust Dounaries 
+    * Dataflow Paths
+    * Input points 
+    * Privileged Operations
+    * Details about security stance and approach  
