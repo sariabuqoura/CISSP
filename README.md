@@ -269,8 +269,16 @@ Once the security policy documentation is reasonably complet, it can be used to 
   * Probility * Damage Potential Ranking 
   * High/Medium/Low 
   * DREAD System
-    * Damage potential
-    * Reproducibilility
-    * Exploitability 
-    * Affected Users 
-    * Discoverability 
+    * Answer five questions  
+      * Damage potential: how server is the damage 
+      * Reproducibilility: how complicated to reproduce the exploit 
+      * Exploitability : how hard to preform the attack
+      * Affected Users : how many users are likley to be effected 
+      * Discoverability : how hard for attacker to find it out 
+    * Responses are needed for there threats 
+    * remidate threats should be considered and weighted according to their cost and effectivness
+    * threat modeling is similar to the risk assessment 
+      * Threat modeling focus on the attack it self
+      * Risk assessment focus on the asset. 
+### Supply chain risk Managemen
+* 
