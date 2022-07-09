@@ -296,4 +296,5 @@ Once the security policy documentation is reasonably complet, it can be used to 
 * supply chain attack present a risk that can be challenging to address 
 * it may nearly impossbile to discover an extra chip placed on a device mainboard or change in firmware.
 * ongoing security monitoring managment and assessement maybe be required, this maybe made by the end-of-chain organization or external auditor 
-* 
+* if org is unable to manage thier own operation on as secure basis, how can they protect you ? 
+* software, hardware myst meet ot exceed in the final product
