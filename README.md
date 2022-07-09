@@ -233,12 +233,15 @@ Once the security policy documentation is reasonably complet, it can be used to 
     * Focused on attackers : attacker motiviation goals, or Tactics techniques and procedures (TTPs)
     * Focused on softwares: Company create softwares  
   * Microsoft approach (STRIDE)
-    * Spoofing 
-    * Tampering 
-    * Repudiation 
-    * Information disclosure
-    * Denial of service 
-    * Elevation of privilege
-  * Process for attach simulation and threat analysis PASTA
-    * 
+    * Spoofing : bypass filters 
+    * Tampering : change data 
+    * Repudiation : deny action
+    * Information disclosure : distribution of private confidential to external or unauthorized entities 
+    * Denial of service : prevent authorized use of a resource 
+    * Elevation of privilege : change to account with greater privilege
+  * Process for attack simulation and threat analysis PASTA
+    * Risk- centric 
+    * aims to select or develop countermeasures in relation to the value of the assets to be protected.
+    * steps 
+      *  
     
