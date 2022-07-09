@@ -227,4 +227,7 @@ Once the security policy documentation is reasonably complet, it can be used to 
     * result in addtional effort in coding to add new countermeasure released as patching.
       * this result in less effective security improvements.
 * Identifying threats:
-  * 
+  * Structured approach 
+    * Focused on assets: assets evaluation, and threats to the valuble assets.
+    * Focused on attackers : attacker motiviation goals, or Tactics techniques and procedures (TTPs)
+    * Focused on softwares: Company create softwares  
