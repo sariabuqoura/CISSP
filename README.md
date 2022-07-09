@@ -265,4 +265,12 @@ Once the security policy documentation is reasonably complet, it can be used to 
     * Details about security stance and approach : the declaration of security policy,foundation, assumptions 
     * once the threats are identified should be fully documeneted by target, consequences of a threat.
 * Prioritization and Response 
-  * 
+  * Ranking & Rating 
+  * Probility * Damage Potential Ranking 
+  * High/Medium/Low 
+  * DREAD System
+    * Damage potential
+    * Reproducibilility
+    * Exploitability 
+    * Affected Users 
+    * Discoverability 
