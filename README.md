@@ -258,8 +258,10 @@ Once the security policy documentation is reasonably complet, it can be used to 
 * Preforming Reduction anaylsis 
   * Decomposing the application 
   * purpose is to gain a greater understandign of the logic of the product, its internal components, as well as its interncation with external elements.
-    * Trust Dounaries 
+    * Trust boundries  
     * Dataflow Paths
     * Input points 
     * Privileged Operations
     * Details about security stance and approach  
+* Prioritization and Response 
+  * 
