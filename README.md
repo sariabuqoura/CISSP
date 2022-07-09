@@ -289,4 +289,11 @@ Once the security policy documentation is reasonably complet, it can be used to 
 * Goals 
   * ensure that the finished product is of sufficient qulity
   * no point in the process was any elemnt counterfeteited or subject to unauthorized or malicious mainuplation or sabotage 
-*  
+* another threat vector 
+* Just-in-time supply chain 
+* is there surplus or Buffer of materials 
+* attack on supply chain could result in flawed or less reliable products 
+* supply chain attack present a risk that can be challenging to address 
+* it may nearly impossbile to discover an extra chip placed on a device mainboard or change in firmware.
+* ongoing security monitoring managment and assessement maybe be required, this maybe made by the end-of-chain organization or external auditor 
+* 
