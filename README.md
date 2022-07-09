@@ -281,4 +281,12 @@ Once the security policy documentation is reasonably complet, it can be used to 
       * Threat modeling focus on the attack it self
       * Risk assessment focus on the asset. 
 ### Supply chain risk Managemen
-* 
+* Hardware, devices, network, cloud services are not built by a single entity 
+* vendor are perform the final assembly 
+* any finished system has a long and complex history known as its called supply chain.
+* SCRM is the means to ensure that all of the vendors or link in the supllu chain are reliable .
+* each link in the chain should be responsbile and accountable to the next link 
+* Goals 
+  * ensure that the finished product is of sufficient qulity
+  * no point in the process was any elemnt counterfeteited or subject to unauthorized or malicious mainuplation or sabotage 
+*  
