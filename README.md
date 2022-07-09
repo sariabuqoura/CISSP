@@ -253,3 +253,5 @@ Once the security policy documentation is reasonably complet, it can be used to 
     *  Visual, Agile, and Simple Threat (VAST) is a threat modeling concept that integrates threat and risk management into an Agile programming environment on a scalable basis
     *  consider threat level from indivduals including employees adversaries and treust pratners.
     *  Compny faces threats from nature, technology, people, always consider the best and worst possbile outcomes.
+* Determining and Digramming Potential attacks
+  * 
