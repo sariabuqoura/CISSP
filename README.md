@@ -313,7 +313,17 @@ Once the security policy documentation is reasonably complet, it can be used to 
      * User federal computer to commit a fraud
      * Case malicious damage to federal computer excess of 1000 $
      * modify medical records 
-   * Computer Fraud and abuse Act Amendments 1994 
+     * traffic in computer password interstate commerce or federal computer system
+     * && Congress addedd the below 
+       * any computer used exclusively be the US goverment 
+       * by financial inistitution
+       * any computer used by the goverment or finincial when the offense impedes the ability of the goverment or institution to use that system
+       * any combination of cupters use to commit an offense when they not all located in same state  
+   * Computer Fraud and abuse Act Amendments 1994 (big change on internet )
+     *   outlawed the creation of any malicious code that may case damage 
+     *   covers any computers used in interstate commerce not only federal 
+     *   allowed imprisonment
+     *   pursue civil action 
    * National Information Infrastructure protection act 1996
    * Federal Sentencing Gudelines 1991
    * Federal Information Security Managment Act 2002
