@@ -305,8 +305,14 @@ Once the security policy documentation is reasonably complet, it can be used to 
  * Administrative Law
 ### Laws 2
  * Computer Crime 
-   * Computer Fraud and abuse Act 1986
-   * Comprehensive crime contract control act 1984
+   * Comprehensive crime contract control act 1984 
+     * First time to cover computer crime in law.
+   * Computer Fraud and abuse Act 1986 
+     * Unthorized access or in excess of authorized privileges (classified infomration or financial in fedral law)
+     * Unthorized access used by federal goverment
+     * User federal computer to commit a fraud
+     * Case malicious damage to federal computer excess of 1000 $
+     * modify medical records 
    * Computer Fraud and abuse Act Amendments 1994 
    * National Information Infrastructure protection act 1996
    * Federal Sentencing Gudelines 1991
