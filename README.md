@@ -299,3 +299,16 @@ Once the security policy documentation is reasonably complet, it can be used to 
 * ongoing security monitoring managment and assessement maybe be required, this maybe made by the end-of-chain organization or external auditor 
 * if org is unable to manage thier own operation on as secure basis, how can they protect you ? 
 * software, hardware myst meet ot exceed in the final product
+### Laws 1
+ * Criminal
+ * Civil Law
+ * Administrative Law
+### Laws 2
+ * Computer Crime 
+   * Computer Fraud and abuse Act 1986
+   * Comprehensive crime contract control act 1984
+   * Computer Fraud and abuse Act Amendments 1994 
+   * National Information Infrastructure protection act 1996
+   * Federal Sentencing Gudelines 1991
+   * Federal Information Security Managment Act 2002
+   * Federal Cybersecurity Laws 2014
