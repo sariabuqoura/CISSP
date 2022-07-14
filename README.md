@@ -343,7 +343,7 @@ Once the security policy documentation is reasonably complet, it can be used to 
      * FISMA replaced Two laws (Computer Security Act of 1987 and Government information security reform act of 200)
      * FISMA outline the elements of the below 
        * periodic assessment of risk 
-       * policy and procedures that are based on risk assessment, cost effectivly reducing the infomration security
+       * policy and procedures that are based on risk assessment, cost effectivly reducing the infomration security to acceptable risk
        * subordinate plan for providing adequate information security for network, facilities, information system. 
        * security awareness tranning 
        * periodic testing and evaluation 
