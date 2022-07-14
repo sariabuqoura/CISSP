@@ -330,5 +330,9 @@ Once the security policy documentation is reasonably complet, it can be used to 
      * extends similar protections as railroads , gas piplines , electric power grids , telecommunication 
      * treats any interntional or recless act that causes damage as felony 
    * Federal Sentencing Gudelines 1991
+    Provided punishment guidelines to help federal judges to interpret computer crime law.
+    * formalize prudent person rule, senior executives to take personal responsbility.
+    * allowed org and exectives to minimize punishment (if due diligence were practised )
+    * ????
    * Federal Information Security Managment Act 2002
    * Federal Cybersecurity Laws 2014
