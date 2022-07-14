@@ -354,4 +354,13 @@ Once the security policy documentation is reasonably complet, it can be used to 
      * centralizing federal cycbersecurity responsibility with department of home land security 
        * defnese realted to cyber security issues remain the responsbibility of the secretary of defense and the director of national inteleigence bears bears responsbility for intelligence-related issues 
        * charge NIST with to work on voluntary standards
+       * notional cybersecurity protection act (charge home land security to establish cybersecurity center)
+         * the goal is to server the interface between fedral and civilian for sharing cybersecurity risks, incidents, analysis, warnings 
+
+### Intellectual Property (IP)
+ * Copyright 
+ * trademark
+ * patnets 
+ * trade secerts
+
        
