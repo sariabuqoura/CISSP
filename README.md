@@ -325,6 +325,10 @@ Once the security policy documentation is reasonably complet, it can be used to 
      *   allowed imprisonment
      *   pursue civil action 
    * National Information Infrastructure protection act 1996
+   Congress passed another set of amendments covers new area 
+     * CCFA to cover computers used in internationla commerce . 
+     * extends similar protections as railroads , gas piplines , electric power grids , telecommunication 
+     * treats any interntional or recless act that causes damage as felony 
    * Federal Sentencing Gudelines 1991
    * Federal Information Security Managment Act 2002
    * Federal Cybersecurity Laws 2014
