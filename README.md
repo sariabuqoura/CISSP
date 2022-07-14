@@ -328,7 +328,7 @@ Once the security policy documentation is reasonably complet, it can be used to 
    Congress passed another set of amendments covers new area 
      * CCFA to cover computers used in internationla commerce . 
      * extends similar protections as railroads , gas piplines , electric power grids , telecommunication 
-     * treats any interntional or recless act that causes damage as felony 
+     * treats any interntional or reckless act that causes damage as felony 
    * Federal Sentencing Gudelines 1991
      * Provided punishment guidelines to help federal judges to interpret computer crime law.
      * formalize prudent person rule, senior executives to take personal responsbility.
