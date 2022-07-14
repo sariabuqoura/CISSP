@@ -338,6 +338,16 @@ Once the security policy documentation is reasonably complet, it can be used to 
        * person must have faild to comply with recognized standards. 
        * must be causal relationship between the act of negligence and subsequant damage.
    * Federal Information Security Managment Act (FISMA) 2002
-     * 
-     * 
+     * require that federal agencies implment an information security program
+     * require that goverment agencies include the activites of contractors in their security managment 
+     * FISMA replaced Two laws (Computer Security Act of 1987 and Government information security reform act of 200)
+     * FISMA outline the elements of the below 
+       * periodic assessment of risk 
+       * policy and procedures that are based on risk assessment, cost effectivly reducing the infomration security
+       * subordinate plan for providing adequate information security for network, facilities, information system. 
+       * security awareness tranning 
+       * periodic testing and evaluation 
+       * process for planning, implmenting,evaluating, documenting remedial action to address ny deficiencies in the infomraiton security policy,proc,practices 
+       * procedures for detecting, reporting, and repsones, to security incidents 
+       * plans and procedures to ensure continnuity of operation.
    * Federal Cybersecurity Laws 2014
