@@ -351,3 +351,7 @@ Once the security policy documentation is reasonably complet, it can be used to 
        * procedures for detecting, reporting, and repsones, to security incidents 
        * plans and procedures to ensure continnuity of operation.
    * Federal Cybersecurity Laws 2014
+     * centralizing federal cycbersecurity responsibility with department of home land security 
+       * defnese realted to cyber security issues remain the responsbibility of the secretary of defense and the director of national inteleigence bears bears responsbility for intelligence-related issues 
+       * charge NIST with to work on voluntary standards
+       
