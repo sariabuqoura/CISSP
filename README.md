@@ -330,13 +330,13 @@ Once the security policy documentation is reasonably complet, it can be used to 
      * extends similar protections as railroads , gas piplines , electric power grids , telecommunication 
      * treats any interntional or recless act that causes damage as felony 
    * Federal Sentencing Gudelines 1991
-    * Provided punishment guidelines to help federal judges to interpret computer crime law.
-    * formalize prudent person rule, senior executives to take personal responsbility.
-    * allowed org and exectives to minimize punishment (if due diligence were practised )
-    * guiglines outlined three burdens of proof for negligence 
-      * person accused of negligence must have a legally recognized obligation. 
-      * person must have faild to comply with recognized standards. 
-      * must be causal relationship between the act of negligence and subsequant damage.
+     * Provided punishment guidelines to help federal judges to interpret computer crime law.
+     * formalize prudent person rule, senior executives to take personal responsbility.
+     * allowed org and exectives to minimize punishment (if due diligence were practised )
+     * guiglines outlined three burdens of proof for negligence 
+       * person accused of negligence must have a legally recognized obligation. 
+       * person must have faild to comply with recognized standards. 
+       * must be causal relationship between the act of negligence and subsequant damage.
    * Federal Information Security Managment Act (FISMA) 2002
      * 
      * 
