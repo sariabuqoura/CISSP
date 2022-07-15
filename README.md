@@ -359,6 +359,8 @@ Once the security policy documentation is reasonably complet, it can be used to 
 
 ### Intellectual Property (IP)
  * Copyright 
+   * Unauthorized duplication of their work 
+   *  
  * trademark
  * patnets 
  * trade secerts
