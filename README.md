@@ -416,7 +416,11 @@ Once the security policy documentation is reasonably complet, it can be used to 
        * fine 500,00 and imprisoned for 15 years for US coropration
        * fine 250,00 and impriosned for up to 10 years for other circumstances .  
  * Licensing
-   *  
+   * Four Types 
+     * Contractual: written contract (high-priced, high specialized)
+     * Shrink-Wrap: agreement written on the outside of the software (once its opened its activated)
+     * Click-Through: click on licesning button 
+     * Cloud Service : it provide link to lefal terms and checkbos for user to confirm that they read and agree 
  
 
        
