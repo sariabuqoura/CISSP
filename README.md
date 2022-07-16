@@ -424,8 +424,10 @@ Once the security policy documentation is reasonably complet, it can be used to 
    * Import/Export 
      * export of senstive hardware and software products to other nations 
      * Internernational traffic in arms regulations(ITAR)
-       * controls the export items are specifically designed as military and defense items on (USML) list   
+       * controls the export items are specifically designed as military and defense items on (USML US Munitioons list ) list   
      * the export administration regulation (EAR) 
-       * cover a broader set of items that are designed for commercial use but have military applications on (CCL) list 
+       * cover a broader set of items that are designed for commercial use but have military applications on (CCL commerce control list) list 
    * Countries of concern
+     *  it was virtually impossible to export even low grade encryption, this placed US software manufactures at a great competitive disadvantage, to foreign firms that faced no similar requlations.
+     *  presidant directed the commerce department to revise this regulation . 
      *  
