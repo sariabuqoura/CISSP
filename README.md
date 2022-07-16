@@ -412,6 +412,11 @@ Once the security policy documentation is reasonably complet, it can be used to 
      * trade secrets protection is one the best way to protect computer software (it keeps it out of the hands of your competitors in the first place ) 
        * patenet law does not provide adequate protection for computer software products 
        * copyright law protects only the actual text of the source code. dosent prohibit other from rewriting your code in diffrent form 
-   
+     * economic espionage act of 1996
+       * fine 500,00 and imprisoned for 15 years for US coropration
+       * fine 250,00 and impriosned for up to 10 years for other circumstances .  
+ * Licensing
+   *  
+ 
 
        
