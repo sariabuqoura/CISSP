@@ -427,4 +427,5 @@ Once the security policy documentation is reasonably complet, it can be used to 
        * controls the export items are specifically designed as military and defense items on (USML) list   
      * the export administration regulation (EAR) 
        * cover a broader set of items that are designed for commercial use but have military applications on (CCL) list 
-       
+   * Countries of concern
+     *  
