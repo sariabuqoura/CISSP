@@ -402,5 +402,16 @@ Once the security policy documentation is reasonably complet, it can be used to 
      * invention must not be abvious, (cup to collect rain water) 
    * patent trolls.
  * Trade secerts
+   * coca-cola KFC ,sercet blend of herbs and spices 
+     * why not copyright ot patenet cover it 
+       * filing a copyright or patene application require that you publiclt disclose the details of your work 
+       * copyrigh and patenets both provide protection for a limited period of time , then other firms are free to use it. 
+     * no need for registration 
+     * you must implement adequate controls within your org to ensure that only authorized personnel with ta need to know the secert have acces to them 
+     * you must take stps to demonstrate that you value and protect your intellectual property, failure to do so may result in loss of trade secret protection 
+     * trade secrets protection is one the best way to protect computer software (it keeps it out of the hands of your competitors in the first place ) 
+       * patenet law does not provide adequate protection for computer software products 
+       * copyright law protects only the actual text of the source code. dosent prohibit other from rewriting your code in diffrent form 
+   
 
        
