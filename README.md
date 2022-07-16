@@ -421,6 +421,10 @@ Once the security policy documentation is reasonably complet, it can be used to 
      * Shrink-Wrap: agreement written on the outside of the software (once its opened its activated)
      * Click-Through: click on licesning button 
      * Cloud Service : it provide link to lefal terms and checkbos for user to confirm that they read and agree 
- 
-
+   * Import/Export 
+     * export of senstive hardware and software products to other nations 
+     * Internernational traffic in arms regulations(ITAR)
+       * controls the export items are specifically designed as military and defense items on (USML) list   
+     * the export administration regulation (EAR) 
+       * cover a broader set of items that are designed for commercial use but have military applications on (CCL) list 
        
