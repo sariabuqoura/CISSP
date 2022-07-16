@@ -391,6 +391,8 @@ Once the security policy documentation is reasonably complet, it can be used to 
      * must be be conusingly similar to another trademark
      * shouldnt be descriptive of the goods and services  
  * Patnets 
+   * protect the intellectual property if the inventors.
+   * provide period of 20 years, from the time of invention 
  * Trade secerts
 
        
