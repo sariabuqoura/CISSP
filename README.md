@@ -360,7 +360,24 @@ Once the security policy documentation is reasonably complet, it can be used to 
 ### Intellectual Property (IP)
  * Copyright 
    * Unauthorized duplication of their work 
-   *  
+   *  protect the source code, it doesnt protect the idea or process behind the software.
+   *  granted automaticly for 70 years.
+   *  if it was for hire it is protected for 95 from first publish or 120 year from create or whos shorter.
+   *  Digital Millennium Copyright DMCA
+      * Compliance with World intellectual Property Organization WIPO
+      * prohibtion of atempts to circumvent (disable) copyright mechanisms placed on protected work.
+        * up to 1 million and 10 years in prison, Nonprofit and libraries and schnool are exempted from this provision.   
+      * prohibtion of creation of backup copies, maintenance, testing, or routine used unless the software is licensed for user and must comply with license agremment
+      * streaming video and audio is treated as eligible nonsubscription transmissions
+      * limit the liability for ISP when their circyits are used by criminals violating the copyright law 
+      * ISP must meet the below 
+        * the transmission must be initaiated by person not the provider 
+        * the transmission routing, provision of connections or copying must be carried out by an automated technical process without selection 
+        * the service provide must not determine the recipients of the material 
+        * any intermediate copies must not ordinarily accessible to anyone other than anticipated recipients, and must be retained for longer than reasonably necessary
+        * the material must be transmistted without any modification
+        * exempts the actives of ISP for caching, search engine, and storage of infomration on a network by individual users, ISP must take action to remove the materials unon notification of the infringement. 
+     
  * trademark
  * patnets 
  * trade secerts
