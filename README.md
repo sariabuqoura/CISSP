@@ -391,8 +391,8 @@ Once the security policy documentation is reasonably complet, it can be used to 
      * must be be conusingly similar to another trademark
      * shouldnt be descriptive of the goods and services  
  * Patnets 
-   * Desgin patents 
-   * Utility patents  
+   * Desgin patents protect the appearance (weak IP)
+   * Utility patents protect the function  
    * protect the intellectual property of the inventors.
    * provide period of 20 years, from the time of invention
    * at the end of patent exclusivity period, the invention is in the public use.
@@ -400,7 +400,7 @@ Once the security policy documentation is reasonably complet, it can be used to 
      * invention must be New 
      * invenction must be useful
      * invention must not be abvious, (cup to collect rain water) 
-     *  
+   * patent trolls.
  * Trade secerts
 
        
