@@ -378,8 +378,19 @@ Once the security policy documentation is reasonably complet, it can be used to 
         * the material must be transmistted without any modification
         * exempts the actives of ISP for caching, search engine, and storage of infomration on a network by individual users, ISP must take action to remove the materials unon notification of the infringement. 
      
- * trademark
- * patnets 
- * trade secerts
+ * Trademark
+   * protect creative works, which is (words, slogans, logos used to identify a company )
+   * avoid confusion in the market 
+   * do not need to be offcially registered
+   * (TM) means you intend to protect.
+   * (R) after registration and it may take more than 1 year with attorny to perform a due diligence 
+   * one advantage of trademark registration is that you may reguster a trade you intend to use but no necessarily already using. (intent to use)
+   * if you dont register with PTO your protection begines only when you first use the trademark 
+   * granted for initial period of 10 years, can can be renewed for 10 years .
+   * accpetance of trademark 
+     * must be be conusingly similar to another trademark
+     * shouldnt be descriptive of the goods and services  
+ * Patnets 
+ * Trade secerts
 
        
