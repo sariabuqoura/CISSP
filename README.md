@@ -435,3 +435,21 @@ Once the security policy documentation is reasonably complet, it can be used to 
      *  current regulation now designate the categories of retail and mass market security software, the rule now permit firm to submit these products for review by the commerce department in 30 days 
    * Privacy 
      * US Privacy Law   
+       * Fourth amendment 
+       * Privacy Act of 1974 
+       * Electrnoic Communications Privacy Act of (ECPA)1986
+       * Communication Assistance for Law Enforcments Act (CALEA) 1994
+       * Economic Espionage Act of 1996
+       * Health Insurance Protability and Accountability of 1996
+       * Health information technology for economic and clinical health act of 2009
+       * Children Online Privacy Protection act of 1998
+       * Gramm-leach-Blily Act of 1999
+       * USA Patriot act of 2001
+       * Family Educational Right and privacy act
+       * Identify theft and Assumption Deterence act 1998
+     * European Union Privacy Law
+       * European Union Data Protection Directive (DPD)
+       * European Union General Data Protection Regulation 
+       * Cross Border Infomration sharing 
+     * Canadian Privacy Law  
+
