@@ -456,6 +456,7 @@ Once the security policy documentation is reasonably complet, it can be used to 
             * prevent provider of those services from making unauthorized disclousres of their content.
             * it makes it illegal to monitor mobile elephone conversations (fine 500 and prison up to 5 years) 
        * Communication Assistance for Law Enforcments Act (CALEA) 1994
+         * Amend the ECPA 1986 to require all communications carriers to make wiretaps possbile for law enforcements with court order regadless on the technology. 
        * Economic Espionage Act of 1996
        * Health Insurance Protability and Accountability of 1996
        * Health information technology for economic and clinical health act of 2009
