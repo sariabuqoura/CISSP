@@ -436,7 +436,15 @@ Once the security policy documentation is reasonably complet, it can be used to 
    * Privacy 
      * US Privacy Law   
        * Fourth amendment 
+         * the right for people to be secure by their person, houses,papers,and effects, against unreasonable searches and seizures, shall not be violated.
+         * if upon probable case supported by oath or affirmation, particularly describing the place to be search and the persons and the things to be seized.
+         * the court have expanded their interperation for the foruth amendment to inlcude the protection aginst wiretapping and other invasions of privacy. 
        * Privacy Act of 1974 
+         * Only applies for government agencies. 
+         * limits the ability of fedral goverment agencies to disclose private information to other people or aginces without prior written consent .
+         * expection for law enforcement
+         * only maintain records that are necessary for conducting their business, and distory those records when they are no longer needed 
+         * provide formal procedure for individuals to gain access to records the goverments maintanis about them and amend the wrong.   
        * Electrnoic Communications Privacy Act of (ECPA)1986
        * Communication Assistance for Law Enforcments Act (CALEA) 1994
        * Economic Espionage Act of 1996
