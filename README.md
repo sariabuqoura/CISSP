@@ -448,17 +448,20 @@ Once the security policy documentation is reasonably complet, it can be used to 
        * Electrnoic Communications Privacy Act of (ECPA)1986
          * it makes crime to invade the electronic privacy of an individual.
          * federal wiretap (data traveling via a physical wire )
-           * Prohibit
-             * apply to illegal any interception if electronic communications.
-             * or to the intentional, unauthorized access of electronically stored data.
-             * and defines those situations in which disclosure is legal.
-            * it protects against the monitoring of email and voicemail 
-            * prevent provider of those services from making unauthorized disclousres of their content.
-            * it makes it illegal to monitor mobile elephone conversations (fine 500 and prison up to 5 years) 
+         * Prohibit
+           * apply to illegal any interception if electronic communications.
+           * or to the intentional, unauthorized access of electronically stored data.
+           * and defines those situations in which disclosure is legal.
+           * it protects against the monitoring of email and voicemail 
+           * prevent provider of those services from making unauthorized disclousres of their content.
+           * it makes it illegal to monitor mobile elephone conversations (fine 500 and prison up to 5 years) 
        * Communication Assistance for Law Enforcments Act (CALEA) 1994
          * Amend the ECPA 1986 to require all communications carriers to make wiretaps possbile for law enforcements with court order regadless on the technology. 
        * Economic Espionage Act of 1996
+         * extened the definition of property to include proprietary economic information so that theft is no longer physical constraints. 
        * Health Insurance Protability and Accountability of 1996
+         * strict security measures for hospitals, physicians, insurance, and other organization that process or store private medical infomraiton 
+         * defines the right of individuals who are the subject of medical records and requires org that maintain such records to disclose these rights in writing
        * Health information technology for economic and clinical health act of 2009
        * Children Online Privacy Protection act of 1998
        * Gramm-leach-Blily Act of 1999
