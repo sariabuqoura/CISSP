@@ -428,6 +428,8 @@ Once the security policy documentation is reasonably complet, it can be used to 
      * the export administration regulation (EAR) 
        * cover a broader set of items that are designed for commercial use but have military applications on (CCL commerce control list) list 
    * Countries of concern
+     * Bureau of industry and security  
+   * encryption export controls 
      *  it was virtually impossible to export even low grade encryption, this placed US software manufactures at a great competitive disadvantage, to foreign firms that faced no similar requlations.
      *  presidant directed the commerce department to revise this regulation . 
      *  current regulation now designate the categories of retail and mass market security software, the rule now permit firm to submit these products for review by the commerce department in 30 days 
