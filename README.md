@@ -446,6 +446,15 @@ Once the security policy documentation is reasonably complet, it can be used to 
          * only maintain records that are necessary for conducting their business, and distory those records when they are no longer needed 
          * provide formal procedure for individuals to gain access to records the goverments maintanis about them and amend the wrong.   
        * Electrnoic Communications Privacy Act of (ECPA)1986
+         * it makes crime to invade the electronic privacy of an individual.
+         * federal wiretap (data traveling via a physical wire )
+           * Prohibit
+             * apply to illegal any interception if electronic communications.
+             * or to the intentional, unauthorized access of electronically stored data.
+             * and defines those situations in which disclosure is legal.
+            * it protects against the monitoring of email and voicemail 
+            * prevent provider of those services from making unauthorized disclousres of their content.
+            * it makes it illegal to monitor mobile elephone conversations (fine 500 and prison up to 5 years) 
        * Communication Assistance for Law Enforcments Act (CALEA) 1994
        * Economic Espionage Act of 1996
        * Health Insurance Protability and Accountability of 1996
