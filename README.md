@@ -432,4 +432,4 @@ Once the security policy documentation is reasonably complet, it can be used to 
      *  presidant directed the commerce department to revise this regulation . 
      *  current regulation now designate the categories of retail and mass market security software, the rule now permit firm to submit these products for review by the commerce department in 30 days 
    * Privacy 
-     * US Privacy Law  
+     * US Privacy Law   
