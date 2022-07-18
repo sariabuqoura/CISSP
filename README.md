@@ -462,7 +462,8 @@ Once the security policy documentation is reasonably complet, it can be used to 
        * Health Insurance Protability and Accountability of (HIPAA)1996
          * Strict security measures for hospitals, physicians, insurance, and other organization that process or store private medical infomraiton. 
          * Defines the right of individuals who are the subject of medical records and requires org that maintain such records to disclose these rights in writing.
-       * Health information technology for economic and clinical health act of 2009
+       * Health information technology for economic and clinical health act of (HITECH) 2009
+         *  
        * Children Online Privacy Protection act of 1998
        * Gramm-leach-Blily Act of 1999
        * USA Patriot act of 2001
