@@ -463,7 +463,16 @@ Once the security policy documentation is reasonably complet, it can be used to 
          * Strict security measures for hospitals, physicians, insurance, and other organization that process or store private medical infomraiton. 
          * Defines the right of individuals who are the subject of medical records and requires org that maintain such records to disclose these rights in writing.
        * Health information technology for economic and clinical health act of (HITECH) 2009
-         *  
+         * added new way to treat business associates law 
+          * Covered entity :  Covered Entities* have direct contact with patients
+           * Doctors, Clinics, psychologists, Dentists, Chiropractors, Nursing Homes, Pharmacies.
+         * Business accociates :Business Associates don’t see patients, but they maintain or have access to Protected Health Information (PHI). 
+           * Collections agency,Billing or coding company,IT consultant,Law office or accounting firm,Subcontractor providing remote backup services 
+         * introduced new data breach notification requirements.(if breach exceed 500 )
+            * must notify effect individual of the breach 
+            * notify secretary if health 
+            * notify human service 
+            * media    
        * Children Online Privacy Protection act of 1998
        * Gramm-leach-Blily Act of 1999
        * USA Patriot act of 2001
