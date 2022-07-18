@@ -459,9 +459,9 @@ Once the security policy documentation is reasonably complet, it can be used to 
          * Amend the ECPA 1986 to require all communications carriers to make wiretaps possbile for law enforcements with court order regadless on the technology. 
        * Economic Espionage Act of 1996
          * extened the definition of property to include proprietary economic information so that theft is no longer physical constraints. 
-       * Health Insurance Protability and Accountability of 1996
-         * strict security measures for hospitals, physicians, insurance, and other organization that process or store private medical infomraiton 
-         * defines the right of individuals who are the subject of medical records and requires org that maintain such records to disclose these rights in writing
+       * Health Insurance Protability and Accountability of (HIPAA)1996
+         * Strict security measures for hospitals, physicians, insurance, and other organization that process or store private medical infomraiton. 
+         * Defines the right of individuals who are the subject of medical records and requires org that maintain such records to disclose these rights in writing.
        * Health information technology for economic and clinical health act of 2009
        * Children Online Privacy Protection act of 1998
        * Gramm-leach-Blily Act of 1999
