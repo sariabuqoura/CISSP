@@ -475,8 +475,17 @@ Once the security policy documentation is reasonably complet, it can be used to 
             * notify secretary if health 
             * notify human service 
             * media    
-       * Children Online Privacy Protection act of 1998
-       * Gramm-leach-Blily Act of 1999
+       * Children Online Privacy Protection act  (COPPA )of 1998
+         * Demand websites that cater to children or collect from children
+           * website must have privacy notice that clearly states the types of infomration they collect and what is used for 
+           * website must have privacy notice that clearly states the types of infomration they used for
+           * what type of data disclosed to 3rd party 
+           * contact infomraiton for the oprator site 
+         * Parents must be provided with the opportunity to review any information collected from their children, and permanently delete them.  
+         * Paretn must give verifiable consent to the collected infomraton about younrer than age of 13,
+           * exceptions in the law allow website to collect minimal information solely for purpose of obtanining such parental consent.  
+       * Gramm-leach-Blily Act (GLBA) of 1999
+         * 
        * USA Patriot act of 2001
        * Family Educational Right and privacy act
        * Identify theft and Assumption Deterence act 1998
