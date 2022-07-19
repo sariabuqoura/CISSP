@@ -485,7 +485,13 @@ Once the security policy documentation is reasonably complet, it can be used to 
          * Paretn must give verifiable consent to the collected infomraton about younrer than age of 13,
            * exceptions in the law allow website to collect minimal information solely for purpose of obtanining such parental consent.  
        * Gramm-leach-Blily Act (GLBA) of 1999
-         * 
+         * there was stric govermental barriers between finnanical instituions.(banks, insurance, credit provider )
+           * limited services 
+           * limited shared infomation 
+           * GLBA relaxed the regulations concerning ther services for each inistiuation 
+             * this lead to far-reaching privacy implications,so 
+               * it inculded limitation on type of exchanged infomartion even subsidaries 
+               * required financial instituation to provide writeen privacy polices to all their customers     
        * USA Patriot act of 2001
        * Family Educational Right and privacy act
        * Identify theft and Assumption Deterence act 1998
