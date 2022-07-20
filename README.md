@@ -502,8 +502,9 @@ Once the security policy documentation is reasonably complet, it can be used to 
          * allows the gov to obtain detailed infomation on user activity through the user of subpoena (as opposed to a wiretap) 
          * amends CFAA to provide more sever penalties for criminal acts (... jail for 20 years )
          * till now not renewed 
-       * Family Educational Right and privacy act
-         * 
+       * Family Educational Right and privacy act (FERPA).
+         * effect any educational inistitution that accpet any form of funding from federal government. 
+         * it grants certain privacy right to student older than 18 and the parents of minor student.
        * Identify theft and Assumption Deterence act 1998
      * European Union Privacy Law
        * European Union Data Protection Directive (DPD)
