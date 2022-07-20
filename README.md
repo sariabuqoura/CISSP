@@ -530,7 +530,7 @@ Once the security policy documentation is reasonably complet, it can be used to 
           * right of legal action should  tjese rights be violated 
         * forced all organiazation even outside the Europe to consider the privacy obligation due to transborder data flow requirmetns 
           * in case citizenes left the EU theose sending the data were requied to ensure that it remaind protected.         
-      * European Union General Data Protection Regulation 
+      * European Union General Data Protection Regulation (2016)
         *      
       * Cross Border Infomration sharing 
      * Canadian Privacy Law  
