@@ -514,8 +514,24 @@ Once the security policy documentation is reasonably complet, it can be used to 
          *  after the act creditor and person were the legal victams 
          *  also adding person for 15 years and fine 250,000 for who found guilty 
      * European Union Privacy Law
-       * European Union Data Protection Directive (DPD)
-       * European Union General Data Protection Regulation 
-       * Cross Border Infomration sharing 
+       * Apply for all individually Identifiable inforamtion ,not like US for spesific industries or categories of information. 
+      * European Union Data Protection Directive (DPD) (1995)
+        *Processing of data require to meet one of the below  :
+         * Consent
+         * Contract 
+         * Legal Obligation
+         * Vital interest of data subject
+         * blanace between the interest of data holder and the interests of data subject.
+        * outlined key right for individual
+          * right to access the data
+          * right to know the data source
+          * right to correct inaccurate data
+          * right to withhold consent to process data in some situations 
+          * right of legal action should  tjese rights be violated 
+        * forced all organiazation even outside the Europe to consider the privacy obligation due to transborder data flow requirmetns 
+          * in case citizenes left the EU theose sending the data were requied to ensure that it remaind protected.         
+      * European Union General Data Protection Regulation 
+        *      
+      * Cross Border Infomration sharing 
      * Canadian Privacy Law  
 
