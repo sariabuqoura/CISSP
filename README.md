@@ -505,7 +505,12 @@ Once the security policy documentation is reasonably complet, it can be used to 
        * Family Educational Right and privacy act (FERPA).
          * effect any educational inistitution that accpet any form of funding from federal government. 
          * it grants certain privacy right to student older than 18 and the parents of minor student.
+         * it includes 
+           * parents/students have the right to inspect any eductional records 
+           * parents/students have the right to request correction of records and include statments sontesting anything not correct 
+           * schools may not rlease personal information from student records without written consent, except under certain circumstances 
        * Identify theft and Assumption Deterence act 1998
+         *  
      * European Union Privacy Law
        * European Union Data Protection Directive (DPD)
        * European Union General Data Protection Regulation 
