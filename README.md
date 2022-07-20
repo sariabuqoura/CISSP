@@ -512,7 +512,7 @@ Once the security policy documentation is reasonably complet, it can be used to 
        * Identify theft and Assumption Deterence act 1998
          *  before 1998 only creditors (Banks) were the legal victoms 
          *  after the act creditor and person were the legal victams 
-         *  also adding person for 15 years and fun 250.000 for who found guilty 
+         *  also adding person for 15 years and fine 250,000 for who found guilty 
      * European Union Privacy Law
        * European Union Data Protection Directive (DPD)
        * European Union General Data Protection Regulation 
