@@ -510,7 +510,9 @@ Once the security policy documentation is reasonably complet, it can be used to 
            * parents/students have the right to request correction of records and include statments sontesting anything not correct 
            * schools may not rlease personal information from student records without written consent, except under certain circumstances 
        * Identify theft and Assumption Deterence act 1998
-         *  
+         *  before 1998 only creditors were the legal victoms 
+         *  after the act creditor and person were the legal victams 
+         *  also adding person for 15 years and fun 250.000 for who found guilty 
      * European Union Privacy Law
        * European Union Data Protection Directive (DPD)
        * European Union General Data Protection Regulation 
