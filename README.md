@@ -493,6 +493,7 @@ Once the security policy documentation is reasonably complet, it can be used to 
                * it inculded limitation on type of exchanged infomartion even subsidaries 
                * required financial instituation to provide writeen privacy polices to all their customers     
        * USA Patriot act of 2001
+         * Tools required to intercept and obstruct terrorism 
        * Family Educational Right and privacy act
        * Identify theft and Assumption Deterence act 1998
      * European Union Privacy Law
