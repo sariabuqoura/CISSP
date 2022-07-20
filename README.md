@@ -493,8 +493,17 @@ Once the security policy documentation is reasonably complet, it can be used to 
                * it inculded limitation on type of exchanged infomartion even subsidaries 
                * required financial instituation to provide writeen privacy polices to all their customers     
        * USA Patriot act of 2001
-         * Tools required to intercept and obstruct terrorism 
+         * Tools required to intercept and obstruct terrorism (monitoring electronic communications)
+         * changed how govermental obtin  wiretapping authorization.
+           * police were obtin warrants for only one circuit at a time 
+           * single circuit at a time modified to the below 
+           * allow authorities to obtin a blanket authorization for a person and moniter all communications . 
+         * they way they deal with ISP, which ISP may voluntarily provide the gov with large range of infomration.
+         * allows the gov to obtain detailed infomation on user activity through the user of subpoena (as opposed to a wiretap) 
+         * amends CFAA to provide more sever penalties for criminal acts (... jail for 20 years )
+         * till now not renewed 
        * Family Educational Right and privacy act
+         * 
        * Identify theft and Assumption Deterence act 1998
      * European Union Privacy Law
        * European Union Data Protection Directive (DPD)
