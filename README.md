@@ -527,11 +527,19 @@ Once the security policy documentation is reasonably complet, it can be used to 
           * right to know the data source
           * right to correct inaccurate data
           * right to withhold consent to process data in some situations 
-          * right of legal action should  tjese rights be violated 
+          * right of legal action should these rights be violated 
         * forced all organiazation even outside the Europe to consider the privacy obligation due to transborder data flow requirmetns 
           * in case citizenes left the EU theose sending the data were requied to ensure that it remaind protected.         
       * European Union General Data Protection Regulation (2016)
-        *      
+        * main purpose to provide single harmonized law that cover data thoughout EU.
+        * apply for who process EU residents infomraiton 
+          * lawfulness, fairness and transperancy : you must not process data in a manner that is misleading ,you must be open and host about data processing acvtivity
+          * purpose limitation: cleary document and disclose the purpose for collecting and limit it to this purpose 
+          * Data minization: data you process is adequate and limited 
+          * accuracy: data you collect create or maintain is correct. 
+          * storage limitaion : right to be forgotten : right to delete the data .
+          * security :must have appropriate integrity and confidentiality
+          * Accountability: must be responsbile for the security and demonstrate your compliance.
       * Cross Border Infomration sharing 
      * Canadian Privacy Law  
 
