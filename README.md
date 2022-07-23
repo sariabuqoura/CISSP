@@ -570,4 +570,4 @@ Once the security policy documentation is reasonably complet, it can be used to 
     * PCI DSS
     * SOX: Financial auditors may condut IT controls audiot designed to ensure that the infomration security controls for an organization finanical system are sufficient to ensure complaince with SOX.
   * Contracting and Procurement
-    *  
+    *  security professional should conduct reviews of the security controls put in place be vendor .
