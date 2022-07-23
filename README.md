@@ -568,4 +568,6 @@ Once the security policy documentation is reasonably complet, it can be used to 
        * right to exerices their privacy rights without fear of discrimination or retaliation for their use   
   * Complaince
     * PCI DSS
-    * SOX 
+    * SOX: Financial auditors may condut IT controls audiot designed to ensure that the infomration security controls for an organization finanical system are sufficient to ensure complaince with SOX.
+  * Contracting and Procurement
+    *  
