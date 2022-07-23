@@ -541,5 +541,31 @@ Once the security policy documentation is reasonably complet, it can be used to 
           * security :must have appropriate integrity and confidentiality
           * Accountability: must be responsbile for the security and demonstrate your compliance.
       * Cross Border Infomration sharing 
-     * Canadian Privacy Law  
-
+        * purpose: transferring information across international borders 
+        * Contractual clauses : info being transferred outside of the EU.
+        * Binding Corporate :regulate transfers between internal units in the same firm (must approved be al EU member)
+        * Safe harbor agreement called privacy shiled : org were able to certify their compliance with privacy practices  
+        * now the US/EU privacy shield is not valid .
+        * ASIA-Pacific Economic Cooperation (APEC): framework to smooth the cross border flow ofr APEC (prevent harm,notice, privacy ,security, availability ) 
+     * Canadian Privacy Law
+       * effects the processing of personal infomraiton related to canadian residents.
+       * Personal infomration Protection and Electrnoic Document Act (PIPEDA) is national level law, collect user , disclose personal infoamtion 
+       * covers an individual that is identifiable to that individual 
+         * Race , National , or ethnic origin/ religion/age/marital status/medical, education, employment hisotry/ finanical information / DNA/identifying number/ employee performace records 
+     * Exclude infomration
+       * info that is not realted to individual 
+       * info about org such as bussiness 
+       * info that rendered anonymous and dosent link to individual
+       * info for public service 
+       * a person contact info working in org for sole purposes
+      * PIPEDA dosent apply to nonprofit org municiplities, universistes , shcnnols , hospital.    
+   * State privacy laws
+     * states often lead the way in creating privacy regulation.
+     * California consumer privacy act (CCPA)
+       * the right to know what info businesses are collection about them and how use , share them 
+       * the right to be forgoteen 
+       * the right to be opt out 
+       * right to exerices their privacy rights without fear of discrimination or retaliation for their use   
+  * Complaince
+    * PCI DSS
+    * SOX 
