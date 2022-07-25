@@ -388,7 +388,7 @@ Once the security policy documentation is reasonably complet, it can be used to 
    * if you dont register with PTO your protection begines only when you first use the trademark 
    * granted for initial period of 10 years, can can be renewed for 10 years .
    * accpetance of trademark 
-     * must be be conusingly similar to another trademark
+     * must not be be confusingly similar to another trademark
      * shouldnt be descriptive of the goods and services  
  * Patnets 
    * Desgin patents protect the appearance (weak IP)
