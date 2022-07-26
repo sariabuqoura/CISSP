@@ -571,3 +571,32 @@ Once the security policy documentation is reasonably complet, it can be used to 
     * SOX: Financial auditors may condut IT controls audiot designed to ensure that the infomration security controls for an organization finanical system are sufficient to ensure complaince with SOX.
   * Contracting and Procurement
     *  security professional should conduct reviews of the security controls put in place be vendor .
+### 
+ * Investigations types 
+   * Administrative Investigations : internal investigations that examine operational issues or a violation of the org policy 
+     * may be conducted as part of a technical troubleshooting 
+     * or mya be conduct as part of support of other administravice process (as human resources discplinary procedures)   
+   * Operational Investigations : examine issues realted to org computing infrastructure and have the primay goal or resolving operational issues.
+     * example: IT team noticing peforamnce issues on the webserver   
+     * they are loosest standards for collection infomration, they are not intended to produce evidence beacuse they are for internal operational purpose 
+     * primary goal is to solve the issue 
+     * operational investigation my conduct a root cause analysi, to prevent similar incident in the future.
+     * administrative is not operational which require a stronger evidance, specially if it may result in sancations.  
+   * Criminal Investigations
+     * conducted by law enforcment personnal 
+     * beyond a resaonable doubt standard of evidance (which there are no other logical conculusions )
+     * must follow stric evidance collection and preservation  
+   * Civil Investigations
+     * conduct by internal employees and outside consultants working on behaf of legal team 
+     * weaker preponderance (50%+) of the evidance  
+   * Regulatory Investigations
+     * goverment agencies may condcut when the believe that an individual or corporation has viloated administrave law. 
+     * standard of prrof commensurate (equivalent) with the venue where they exoect to try thier case 
+     * by goverment agents   
+   *  Industry standards 
+      * PCI DSS 
+      * contractual obligation not a law
+      * lead to fines or other sanctions 
+      * should be treated in similar mannger as regulatory investigations 
+   * Electronic Discovery
+     *   
