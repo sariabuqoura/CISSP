@@ -599,4 +599,14 @@ Once the security policy documentation is reasonably complet, it can be used to 
       * lead to fines or other sanctions 
       * should be treated in similar mannger as regulatory investigations 
    * Electronic Discovery
-     *   
+     *   information governance: well organized for future eDiscory efforts 
+     *   Identification:locate infomraiton that may be reponsive to dicover  
+     *   Preservation: protected aginst alteration or deletion.
+     *   Collection: father the relevant information centrally 
+     *   Processing: screen the collected infomration to preform rough cut or orrelevant infomraton.
+     *   Review: examine the remaanining information to determine what infomration is relevant 
+     *   Analysis:preform deeper inspection of the contecnt and context.
+     *   Production: places the information into a format that may be share with others 
+     *   Presentation: display the infomraition to witnesses the court, other parties 
+* Evidance
+  *  
