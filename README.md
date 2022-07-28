@@ -76,7 +76,7 @@ https://github.com/jefferywmoore/CISSP-Study-Resources
   *  preforming risks assessment to drive the security policy is the clearest and most direct example if managment of security function 
   *  Security must be measureabl.
   *  tracking and assessing security metrics is part of effective security.
-*  Alignment if Security Function to Business Strategy Goals, Mission, and Objectives 
+* Alignment if Security Function to Business Strategy Goals, Mission, and Objectives 
    * security management planning ensure proper creation, implementation, enforcment.
    * middel management to flesh out the security policy into standred, baseline procedures 
    * the operational managers / security professionals must implement the configuration in the policy 
@@ -244,7 +244,7 @@ Once the security policy documentation is reasonably complet, it can be used to 
     * Risk- centric 
     * aims to select or develop countermeasures in relation to the value of the assets to be protected.
     * steps 
-      *  Stage I: Definition of the Objectives (DO) for the Analysis of Risk.
+      * Stage I: Definition of the Objectives (DO) for the Analysis of Risk.
       * Stage II: Definition of the Technical Scope (DTS)
       * Stage III: Application Decomposition and Analysis (ADA)
       * Stage IV: Threat Analysis (TA)
@@ -609,4 +609,12 @@ Once the security policy documentation is reasonably complet, it can be used to 
      *   Production: places the information into a format that may be share with others 
      *   Presentation: display the infomraition to witnesses the court, other parties 
 * Evidance
-  *  
+  * must be the below 
+    * relevant 
+    * related
+    * competent (obtained legally)
+  * Type Of Evidance
+    * Real Evidence
+    * Documentary 
+    * testimonial
+    * demonstrative       
