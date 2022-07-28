@@ -614,7 +614,16 @@ Once the security policy documentation is reasonably complet, it can be used to 
     * related
     * competent (obtained legally)
   * Type Of Evidance
-    * Real Evidence
-    * Documentary 
-    * testimonial
+    * Real Evidence: physical objects (hard drive, fingerprrint on keyboard ) (conclusice evidence such as DNA)
+    * Documentary: 
+      * Written items 
+      * must be authenticated 
+      * Bring a witness 
+      * two additional rules apply specifcally to documentary 
+        * best evidence rule (orginal document must be infroduced)
+        * seconday evidence if its a copies or descriptions knowns as seconday evidence will not accpeted unless exception rule apply   
+        * Parol Evidence rule: agrement between parties is put into written form.
+        * no verbal agreements may modify the written agreement 
+      * once meet the materiality, competency, and relevancy requirmetns and comply with best evidence and parol evidence, it can be admitted into court. 
+    * testimonial  
     * demonstrative       
