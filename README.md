@@ -628,5 +628,14 @@ Once the security policy documentation is reasonably complet, it can be used to 
         * Parol Evidence rule: agrement between parties is put into written form.
         * no verbal agreements may modify the written agreement 
       * once meet the materiality, competency, and relevancy requirmetns and comply with best evidence and parol evidence, it can be admitted into court. 
-    * testimonial  
+    * testimonial 
+      * testimony of a witness verbal or written 
+      * an oath agrring to tell the truth
+      * direct evidence:
+        * oral testimony that proves or disproves a claim based on their own direct observation.
+        * testimony will not be accepted if the witness has been accpeted by the cout as an expert   
+      * Hearsay Rule 
+        *  
     * demonstrative       
+ * Artifcats 
+ 
