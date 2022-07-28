@@ -614,7 +614,10 @@ Once the security policy documentation is reasonably complet, it can be used to 
     * related
     * competent (obtained legally)
   * Type Of Evidance
-    * Real Evidence: physical objects (hard drive, fingerprrint on keyboard ) (conclusice evidence such as DNA)
+    * Real Evidence: 
+      * physical objects (hard drive, fingerprrint on keyboard ) (conclusice evidence such as DNA)
+      * must be authenticated 
+      * unaltered (chain of custody)
     * Documentary: 
       * Written items 
       * must be authenticated 
