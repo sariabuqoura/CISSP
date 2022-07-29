@@ -652,4 +652,20 @@ Once the security policy documentation is reasonably complet, it can be used to 
      * individual is responsbile once the evidence is their possession 
      * agency is responsbile for the complaince with these principles .
      * preserve the original evidence,work with a copy 
-   *   
+   * Media Analysis
+     * recover deltetd files from unlacated sector 
+     * analysts should never access hard rvices or other media from a live system 
+     * analyst should take immediatley hash
+     * bitwise copy 
+     * this reduces the likelihood of error and ensure the preservation of the chain of custody
+   * In Memory analysis 
+     *  memoery dump 
+     *  place is on forensicall prepared device 
+     *  hashing 
+   * Network Analysis 
+     * preexisting security controls that logs network activity 
+       * IDS IPS
+       * Network flow data capture by flow monitoring system
+       * packet captures 
+       * logs from firewalls 
+       * SPAN port or tap , with analysis software    
