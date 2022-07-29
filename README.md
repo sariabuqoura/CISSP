@@ -644,4 +644,12 @@ Once the security policy documentation is reasonably complet, it can be used to 
       * used to support testimonial evidence 
       * used to help a witness explain a concept or clarify an issue.      
  * Artifcats 
- 
+   * six principles  
+     * general forensic and procedural principles must be applied 
+     * should not change toe evidence 
+     * people should be trained 
+     * all activity realted should be documented preserved and avaible for review 
+     * individual is responsbile once the evidence is their possession 
+     * agency is responsbile for the complaince with these principles .
+     * preserve the original evidence,work with a copy 
+   *   
