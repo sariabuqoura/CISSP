@@ -683,4 +683,8 @@ Once the security policy documentation is reasonably complet, it can be used to 
      * tablet computers 
      * embedded computers in cars.  
 * Investigation Process 
-  * 
+  * must operate under incident response 
+  * clearly outline the scope of investigation 
+  * must define rule of egagment, are authorized to take at diffrent phase such as calling law enforcement, interrogatting, collecting evidence, disrupsting system access 
+  * Gathering Evidence 
+    *    
