@@ -687,4 +687,7 @@ Once the security policy documentation is reasonably complet, it can be used to 
   * clearly outline the scope of investigation 
   * must define rule of egagment, are authorized to take at diffrent phase such as calling law enforcement, interrogatting, collecting evidence, disrupsting system access 
   * Gathering Evidence 
-    *    
+    * Voluntarily surrender it or grant conset to seach 
+    * Subpoena or court order that compels an individual or org to surrender evidence.
+
+   
