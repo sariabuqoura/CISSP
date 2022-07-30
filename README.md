@@ -668,4 +668,19 @@ Once the security policy documentation is reasonably complet, it can be used to 
        * Network flow data capture by flow monitoring system
        * packet captures 
        * logs from firewalls 
-       * SPAN port or tap , with analysis software    
+       * SPAN port or tap , with analysis software
+       * place is on forensicall prepared device
+     * the task of the network forensic analyst is to collect and correlate information from these disparate sources and produce comprehensice a picture of network.
+   * Software Analysis
+     * review of software code 
+     * looking for backdoor 
+     * logic bombs 
+     * interpret the log files from application and databse seeking for sql injection attcaks, privilege escalations 
+     * the National software Reference Library NSRL (over 130 milion know applications hashed )       
+   * Hardware/Embedded Devices Analysis
+     * Personal computers 
+     * smartpone 
+     * tablet computers 
+     * embedded computers in cars.  
+* Investigation Process 
+  * 
