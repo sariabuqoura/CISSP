@@ -689,5 +689,10 @@ Once the security policy documentation is reasonably complet, it can be used to 
   * Gathering Evidence 
     * Voluntarily surrender it or grant conset to seach 
     * Subpoena or court order that compels an individual or org to surrender evidence.
-
+    * Plain view doctrine: Law eforcement officers performing a legally permissible duty may seize evidence that is visible to the officer in plain view ().
+      * normal law eforcement work if there seize evidence and believed it is associated with criminal activity  
+    * Search warrant 
+      * you must have a strong suspicon with credible reasoning to convince a judge to pursue this. 
+    * exigent cirumstances exist 
+      * resonable person would believe that the evidence would be destroyed if not immedialty collected or that another emergency exisit, such as physical harm 
    
