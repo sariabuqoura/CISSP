@@ -697,3 +697,15 @@ Once the security policy documentation is reasonably complet, it can be used to 
       * resonable person would believe that the evidence would be destroyed if not immedialty collected or that another emergency exisit, such as physical harm 
     * note : consider all employee to provide consent as term of employement for sizeing and search, to reduce time once legal permission to seize it 
     * reasonable expectation of privacy : most states that employee dosent have expectation of privacy. 
+  * Calling in Law Enforcement
+    * first thing in investigation decisions should we call the law enforcements.
+    * why org shy from calling authorities 
+      * investigation become publish and embaress the company
+      * if authoritey came they will be compliant with the fourth amendamt and legel , which if compay made it they may not apply the same process, they will use private invesgation.
+   * Conducting the investigation 
+     * key principles 
+       * never conduct your investigation on actual system.
+       * nerver hack back and avenge a crime. 
+       * if in doubt call in expert assistnace. 
+   * Interviewing Individuals 
+     *  
