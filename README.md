@@ -688,11 +688,12 @@ Once the security policy documentation is reasonably complet, it can be used to 
   * must define rule of egagment, are authorized to take at diffrent phase such as calling law enforcement, interrogatting, collecting evidence, disrupsting system access 
   * Gathering Evidence 
     * Voluntarily surrender it or grant conset to seach 
-    * Subpoena or court order that compels an individual or org to surrender evidence.
+    * Subpoena or court order that compels an individual or org to surrender evidence.(issue there is time to alter the evidance ) 
     * Plain view doctrine: Law eforcement officers performing a legally permissible duty may seize evidence that is visible to the officer in plain view ().
       * normal law eforcement work if there seize evidence and believed it is associated with criminal activity  
     * Search warrant 
       * you must have a strong suspicon with credible reasoning to convince a judge to pursue this. 
     * exigent cirumstances exist 
       * resonable person would believe that the evidence would be destroyed if not immedialty collected or that another emergency exisit, such as physical harm 
-   
+    * note : consider all employee to provide consent as term of employement for sizeing and search, to reduce time once legal permission to seize it 
+    * reasonable expectation of privacy : most states that employee dosent have expectation of privacy. 
