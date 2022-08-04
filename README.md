@@ -708,4 +708,13 @@ Once the security policy documentation is reasonably complet, it can be used to 
        * nerver hack back and avenge a crime. 
        * if in doubt call in expert assistnace. 
    * Interviewing Individuals 
-     *  
+     * if you seek only to gather information to assist with your investigation its called interview 
+     * if you suspect the person this is called interrogation.
+     * you should follow the below 
+       * carefully plan the topics to be discussed 
+       * start with sandared questions then customize that list 
+   * Data integrity and retention
+     * make sure you can prove that you maintanied the integrity of all evidences 
+     * you may not detect All all incidents as they happenning 
+     * 
+
