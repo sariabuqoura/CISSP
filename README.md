@@ -725,4 +725,12 @@ Once the security policy documentation is reasonably complet, it can be used to 
        * ensure that law enforcement hears a single perspective and know go-to person 
        * it allows the predesignated contact to develop working relationships with law enforcement personnel 
   * Major Categorize of computer crime 
-    *
+    * Computer crime
+      * the computer crime could be aginst the computer
+      * the computer could be used in the actual commission of the crime 
+      * any individual who violates one or more of your security policies is considered to be considered an attacker 
+      * different type of attacked may leave diffrent of evidances with help uu understnad attacker acrions and intested target 
+      * you may find your system was only a link in th. Chain of netwoek hops to reqch real victam 
+    * attacks     
+ 
+   
