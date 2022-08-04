@@ -716,5 +716,13 @@ Once the security policy documentation is reasonably complet, it can be used to 
    * Data integrity and retention
      * make sure you can prove that you maintanied the integrity of all evidences 
      * you may not detect All all incidents as they happenning 
-     * 
-
+     * sometimes an investigation reveals that there were previous incidents that went undetected 
+     * one techniqe is to implement remote logging 
+   * Reporting and documenting investigation 
+     * goals of investigation to provide final report
+     * prepare formal documentation, you may not know when an investigation begins or even after it concludes (subject to legal)
+     * establish relationships with your corporate legal personnel, benefits as below 
+       * ensure that law enforcement hears a single perspective and know go-to person 
+       * it allows the predesignated contact to develop working relationships with law enforcement personnel 
+  * Major Categorize of computer crime 
+    *
