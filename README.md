@@ -731,6 +731,20 @@ Once the security policy documentation is reasonably complet, it can be used to 
       * any individual who violates one or more of your security policies is considered to be considered an attacker 
       * different type of attacked may leave diffrent of evidances with help uu understnad attacker acrions and intested target 
       * you may find your system was only a link in th. Chain of netwoek hops to reqch real victam 
-    * attacks     
+    * attacks  
+      * Military and intelligence attacks
+        * Goal : to gather militray information or other senstive intelligence precede 
+        * most successful attacks and most satisfied when no one is aware that an attack occurred 
+      * business attacks 
+        *  corporate espionage  or industrual espionage : to gather of a competitiors confidential intellectual property 
+        *  the use of the information gathered during the attack usually causes more damage than the attack itself, can put business into this attack may never recover 
+        *  Ransomeware attacks may jeopardize confidentiality, put the primary purpose disrupt availability 
+      * financial attacks 
+        * GOAL: to obtin money or service
+        * the most computer crime you most commonly hear about in the news 
+        * the goal of a financial attttack could be to steal credit car numbers, increase the balance 
+      * grudge attacks 
+      * thrill attacks 
+      * hackvist attacks     
  
    
