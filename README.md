@@ -749,6 +749,11 @@ Once the security policy documentation is reasonably complet, it can be used to 
       * grudge attacks 
         * motivation behind this attach is afeeling of resentment (recently fired ) 
       * thrill attacks 
-      * hackvist attacks     
+        *  scriot kiddies: run only people programs to lanch an attack 
+        *  main motivation is to compromise a system and perhaps use it to lanch an attack 
+      * hackvist attacks    
+        *  hacktivism : political motivations as tool Low Orbit Ion cannon (LOIC)
+        *  Suicide hackers : engages in highly destructive activity with the knowaldge that they will be caught  , they have nothing to lose.
+      
  
    
