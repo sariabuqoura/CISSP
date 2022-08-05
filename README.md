@@ -742,8 +742,12 @@ Once the security policy documentation is reasonably complet, it can be used to 
       * financial attacks 
         * GOAL: to obtin money or service
         * the most computer crime you most commonly hear about in the news 
-        * the goal of a financial attttack could be to steal credit car numbers, increase the balance 
+        * the goal of a financial attttack could be to steal credit car numbers, increase the balance
+        * cybercrime for hire : where the attacker engages in mercenary activity, conducdting cyber attacks against target for thier clients 
+      * terrorist attacks 
+        * purpose : to disrupt normal life 
       * grudge attacks 
+        * motivation behind this attach is afeeling of resentment (recently fired ) 
       * thrill attacks 
       * hackvist attacks     
  
