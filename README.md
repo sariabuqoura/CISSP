@@ -754,6 +754,15 @@ Once the security policy documentation is reasonably complet, it can be used to 
       * hackvist attacks    
         *  hacktivism : political motivations as tool Low Orbit Ion cannon (LOIC)
         *  Suicide hackers : engages in highly destructive activity with the knowaldge that they will be caught  , they have nothing to lose.
-      
+
+* Personnel Security Policies and Procedures 
+  * Human are often considered the weakest elements in any security solution
+  * Human can always discover ways to (avoid,circumvent, subvert) any control logical or physical.
+  * its important to take into account the humanity if your users when designing= 
+  * to understand and apply security governance, you must address the weakest link in your security chain normaly people.
+  * however people become a key security asset when they are properly tranied and motivated to protect .
+* Job Description and responsbilites
+  * Job Description: define the roles to which employee needs to be assinged to preform thier work tasks 
+  * Job Responsibilities : 
  
    
