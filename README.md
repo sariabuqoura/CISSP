@@ -762,7 +762,12 @@ Once the security policy documentation is reasonably complet, it can be used to 
   * to understand and apply security governance, you must address the weakest link in your security chain normaly people.
   * however people become a key security asset when they are properly tranied and motivated to protect .
 * Job Description and responsbilites
-  * Job Description: define the roles to which employee needs to be assinged to preform thier work tasks 
-  * Job Responsibilities : 
+  * Job Description: define the roles to which employee needs to be assinged to preform thier work tasks (which job responsibilites must be defined )
+  * Job Responsibilities: is the specific wor tasks an employee is required to perform on regular basis.
+* Candidate Screening and Hiring 
+  * screening is based on the sensitivity and classfication defined by the job description.
+* Onboarding: Employment Agreements and Policies 
+  * Onboarding is the process of adding new hire into the organization     
+
  
    
