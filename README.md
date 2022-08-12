@@ -771,7 +771,11 @@ Once the security policy documentation is reasonably complet, it can be used to 
   * principle of least privilege (true applicaiton needs low level granular control over all resources )
   *  NDA is used to protect the confidential information. may required to sign it again once leacing to confirm 
 * Employee Oversight 
-  *    
+  * manager must review or audit job description, work tasks, privileges 
+  * its common for work tasks abd privileges to drift over time 
+  * least privilege is risk reduction strategy 
+  * mandatory vacations is used as peer review process 
+  * 
 
 
   * 
