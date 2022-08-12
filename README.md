@@ -767,7 +767,14 @@ Once the security policy documentation is reasonably complet, it can be used to 
 * Candidate Screening and Hiring 
   * screening is based on the sensitivity and classfication defined by the job description.
 * Onboarding: Employment Agreements and Policies 
-  * Onboarding is the process of adding new hire into the organization     
+  * Onboarding is the process of adding new hire into the organization and review and sign documents and polices  
+  * principle of least privilege (true applicaiton needs low level granular control over all resources )
+  *  NDA is used to protect the confidential information. may required to sign it again once leacing to confirm 
+* Employee Oversight 
+  *    
+
+
+  * 
 
  
    
