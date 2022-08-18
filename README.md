@@ -792,6 +792,11 @@ Once the security policy documentation is reasonably complet, it can be used to 
   * personnal transfers may be treated as fire/hire rather than move.
   * "clean slate " new account for auditing purposes in the new job postion
   * once the user account is deleted the logs lose the mapping always keep track of the mapping.
+  * if employee is problem dont transfer the problem to another department 
+  * a strong relateion between HR and security team in order to minimize risks during termination 
+  * the intest of a termination policy is to reduce the risk associated with employee termination while tearting the person with respect 
+  * for nonvoluntary terminiation where there is percevied risk of confeontation 
+  * for terminiation that are expected 
 
 
   * 
