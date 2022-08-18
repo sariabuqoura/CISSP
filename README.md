@@ -774,8 +774,22 @@ Once the security policy documentation is reasonably complet, it can be used to 
   * manager must review or audit job description, work tasks, privileges 
   * its common for work tasks abd privileges to drift over time 
   * least privilege is risk reduction strategy 
-  * mandatory vacations is used as peer review process 
-  * 
+  * mandatory vacations is used as peer review process ??? not clear
+  * collusion when several people work together to perpetrate a crime .
+  * to reduces the likelihood that coworker will be willing to collaborate on an illegal or abusive scheme because of the higher risk of detection 
+    * separation of duties 
+    * restricted job responsibilites 
+    * mandatory vacation 
+    * job rotation 
+    * cross tranning 
+  * privileged abuses
+    * strict monitoring of special privileges 
+  * UBA user behavior analytics and UEBA user and entity behavior analytics = concpet of analyzing the behavior of users  
+  *  E = Entity, activities that take place but that are not necessarily directly linked or tied to a users actions, but can correlate to a vulnerability reconnaissance, intrusion, breach, or exploit 
+  *  infomration collected from UBA/UEBA monitoring can be used to improve personal security and security polices ...
+* Offboarding, transfers, and termination processess 
+  *   
+  *  
 
 
   * 
