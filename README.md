@@ -788,8 +788,10 @@ Once the security policy documentation is reasonably complet, it can be used to 
   *  E = Entity, activities that take place but that are not necessarily directly linked or tied to a users actions, but can correlate to a vulnerability reconnaissance, intrusion, breach, or exploit 
   *  infomration collected from UBA/UEBA monitoring can be used to improve personal security and security polices ...
 * Offboarding, transfers, and termination processess 
-  *   
-  *  
+  * offboarding/transfers is the removal of an employess identity from IAM  
+  * personnal transfers may be treated as fire/hire rather than move.
+  * "clean slate " new account for auditing purposes in the new job postion
+  * once the user account is deleted the logs lose the mapping always keep track of the mapping.
 
 
   * 
