@@ -815,6 +815,6 @@ Once the security policy documentation is reasonably complet, it can be used to 
   * must be performed by CISO
 * Privacy Policy Requirements 
   * individual have the right to control whether information can be collected about them and what can be done with it 
-
- 
+* Understand and apply risk managment concepts.
+ *  
    
