@@ -795,11 +795,12 @@ Once the security policy documentation is reasonably complet, it can be used to 
   * if employee is problem dont transfer the problem to another department 
   * a strong relateion between HR and security team in order to minimize risks during termination 
   * the intest of a termination policy is to reduce the risk associated with employee termination while tearting the person with respect 
-  * for nonvoluntary terminiation where there is percevied risk of confeontation 
-  * for terminiation that are expected 
-
-
-  * 
+  * for nonvoluntary terminiation where there is percevied risk of confrontation 
+  * for terminiation that are expected quitting retiring extended leave 
+  * Exit interview = learning from the employeess experience 
+  * exit interview is to understand why the employee is leaving 
+* Vendor, Consultant, Contractor Agreements and Controls.
+ *  
 
  
    
