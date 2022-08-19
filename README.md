@@ -800,7 +800,15 @@ Once the security policy documentation is reasonably complet, it can be used to 
   * Exit interview = learning from the employeess experience 
   * exit interview is to understand why the employee is leaving 
 * Vendor, Consultant, Contractor Agreements and Controls.
- *  
-
+ *  are used to define the level of performance expectation 
+ *  multi party risk exist when several entites or organization are involved in a project 
+ *  using SLA meanins to ensire that the org providing  service maintain an appropate level of services, and contanis monly include financial and other contractual remedies that kick in if the agreement is not maintanied.
+ *  outsoursing is the term often used to describe the use of an externak third party, rather than in-house.
+ *  outsouring can be used as a risk respone option as transfer.
+ *  outsoursing increase in risk trade secret 
+ *  outsource  outsider often lack the organizational loyalty that internal employee typically have
+ *  vendor managment system VMS is a software solution that assists whith the managment and procurement of staffing services .....
+* Compliance Policy Requimrents 
+  *    
  
    
