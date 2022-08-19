@@ -809,6 +809,12 @@ Once the security policy documentation is reasonably complet, it can be used to 
  *  outsource  outsider often lack the organizational loyalty that internal employee typically have
  *  vendor managment system VMS is a software solution that assists whith the managment and procurement of staffing services .....
 * Compliance Policy Requimrents 
-  *    
+  * is the act of conforming to or adhering to rules, polices, regulations, and standards, or requirments.
+  * compliance is realted to wheather individual employees follow company polic and perform their job tasks.
+  * compliance is a form of administrative or managerial controls .
+  * must be performed by CISO
+* Privacy Policy Requirements 
+  * individual have the right to control whether information can be collected about them and what can be done with it 
+
  
    
