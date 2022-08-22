@@ -834,4 +834,7 @@ Once the security policy documentation is reasonably complet, it can be used to 
    * Vulnerability : the weakness 
    * Exposure: possibility that a vulnerability can or will happen EF in asset 
    * Risk : possibility or liklihood that a threat will exploit a vulnerability to cause harm and the severity if damage that could result. 
-   
+   * safeguards: any action or proudct that reduce risk 
+   * attack : intenetional attempted exploitation of a vulnerability (failure to adher to an organization security policy)
+   * breach: a breach is a successful attack.
+   * 
