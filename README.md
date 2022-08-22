@@ -816,5 +816,22 @@ Once the security policy documentation is reasonably complet, it can be used to 
 * Privacy Policy Requirements 
   * individual have the right to control whether information can be collected about them and what can be done with it 
 * Understand and apply risk managment concepts.
- *  
+ * risk managment is a detailed process of identifying factors that dould damage or disclose assets.
+ * risk managment for the first time is the skeleton of a security 
+ * Subsequenet risk managment events are used to improve and sustain an organization security over time as internal and external conditions change.
+ * risk management is to reduce risk to an acceptable level.
+ * risk composed of two primay elements
+  * risk assessemnt = evaludating each threat event as to its liklihood of accurring and the severity of the damage.
+  * risk response =evaludating countermeasures, safeguards, security controls using cobst//benefit analysis.
+  * risk awarness is the effort to increase the knowledge of risk within an organization 
+ * Risk terminology and concepts 
+   * Asset.
+   * Asset valuation = quantitative    
+   * Threats : weapon that could cause harm to a target 
+   * Threat Agent/Actors: who exploit the vulnerabilites 
+   * Threat Events: are accidental occurrences (earthquake)
+   * Threat Vector : the path or means by which an attack or attacker can gain access to casue harm 
+   * Vulnerability : the weakness 
+   * Exposure: possibility that a vulnerability can or will happen EF in asset 
+   * Risk : possibility or liklihood that a threat will exploit a vulnerability to cause harm and the severity if damage that could result. 
    
