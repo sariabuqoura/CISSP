@@ -837,4 +837,5 @@ Once the security policy documentation is reasonably complet, it can be used to 
    * safeguards: any action or proudct that reduce risk 
    * attack : intenetional attempted exploitation of a vulnerability (failure to adher to an organization security policy)
    * breach: a breach is a successful attack.
-   * 
+   * threats exploit vulnerabilities which result in exposure, exposure is risk and risk is mitigated by safeguards, safeguards protect asssets that are endangered by threats.
+   * risk assessmenet starts with inventoring threats, then looks for assets that could be harmed, OR assets then threats.
